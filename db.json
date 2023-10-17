@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "name": "projeto martha 2",
+      "budget": "10",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": -1,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "pedro",
+      "budget": "30",
+      "category": {
+        "id": "3",
+        "name": "Frontend"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "joao",
+      "budget": "50",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 40,
+      "services": [
+        {
+          "name": "aaaa",
+          "cost": "20",
+          "description": "aaaa",
+          "id": "29f422f1-84e9-48a1-aded-f496dba77658"
+        },
+        {
+          "name": "aaaa",
+          "cost": "20",
+          "description": "aaaa",
+          "id": "29f422f1-84e9-48a1-aded-f496dba77658"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Backend"
+    },
+    {
+      "id": 3,
+      "name": "Frontend"
+    },
+    {
+      "id": 4,
+      "name": "Gestão"
+    }
+  ]
+}
